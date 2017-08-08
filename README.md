@@ -16,6 +16,6 @@ This assignment teaches coders how to create a Weather Forecast program using an
 https://danalebofsky.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this assignment I learned how to use the JavaScript Console to test the HTTP response from the server.
+2. In this assignment I learned how to use an API key for authentication of application data.
+3. In this assignment I learned how to change the amount of data presented on the web page from 3 days to 10 days.
