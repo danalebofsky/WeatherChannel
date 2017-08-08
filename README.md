@@ -4,17 +4,16 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 8th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Dana Lebofsky
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment teaches coders how to create a Weather Forecast program using an API key to retrieve data.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://danalebofsky.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
